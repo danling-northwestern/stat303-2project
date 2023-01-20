@@ -3,7 +3,7 @@
 STAT303-2 Sec 22 
 
 Team members:
-Yuhan Jin
-Richard Li
-Danling Zhou
-Grace Zhu
+\newline Yuhan Jin
+\newline Richard Li
+\newline Danling Zhou
+\newline Grace Zhu
